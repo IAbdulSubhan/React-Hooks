@@ -21,12 +21,12 @@ This project showcases different hooks in React by implementing them in separate
    ```bash
    git clone https://github.com/your-username/react-hooks-examples.git
    cd react-hooks-examples
-###Install the dependencies:
+### Install the dependencies:
 
 npm install
 
 
-###Start the development server:
+### Start the development server:
 npm run dev
 
 
